@@ -1,7 +1,7 @@
 # DataEngineering
 Retail Sales Analysis - Capstone Project
 
-Project Overview
+Project Overview : 
 This project is part of a Data Engineering course using Python. The aim of the project is to analyze a retail sales dataset to derive insights into total sales, best-selling products, and sales trends over time. Additionally, data cleaning, analysis, and visualizations were performed using Pandas, NumPy, and Matplotlib.
 
 Table of Contents
